@@ -182,119 +182,119 @@
 
 ### Fundamentals
 
-| Difficulty | Topic          | Link                                                              |
-|------------|----------------|-------------------------------------------------------------------|
-|            | **Linux**      | [Linux Fundamentals](https://tryhackme.com/r/room/linuxfundamentalspart1) |
-| [Easy]     | **Networking** | [Intro to Networking](https://tryhackme.com/room/introtonetworking) |
-|            |                | [What is Networking](https://tryhackme.com/r/room/whatisnetworking) |
-|            |                | [HTTP in Detail](https://tryhackme.com/r/room/httpindetail)        |
-|            |                | [DNS in Detail](https://tryhackme.com/r/room/dnsindetail)          |
-| [Mid]      |                | [RF: Firmware](https://tryhackme.com/room/rfirmware)               |
+| Difficulty | Topic          | Link                                                                                       |
+|------------|----------------|-------------------------------------------------------------------                         |
+|            | **Linux**      | [Linux Fundamentals](https://tryhackme.com/r/room/linuxfundamentalspart1)                  |
+| [Easy]     | **Networking** | [Intro to Networking](https://tryhackme.com/room/introtonetworking)                        |
+|            |                | [What is Networking](https://tryhackme.com/r/room/whatisnetworking)                        |
+|            |                | [HTTP in Detail](https://tryhackme.com/r/room/httpindetail)                                |
+|            |                | [DNS in Detail](https://tryhackme.com/r/room/dnsindetail)                                  |
+| [Mid]      |                | [RF: Firmware](https://tryhackme.com/room/rfirmware)                                       |
 
 ---
 
 ### SOC Mentality
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Pyramid of Pain](https://tryhackme.com/r/room/pyramidofpainax)    |
-|            |                       | [Cyber Kill Chain](https://tryhackme.com/r/room/cyberkillchainzmt) |
+| Difficulty | Topic                 | Link                                                                                |
+|------------|-----------------------|-------------------------------------------------------------------                  |
+| [Easy]     |                       | [Pyramid of Pain](https://tryhackme.com/r/room/pyramidofpainax)                     |
+|            |                       | [Cyber Kill Chain](https://tryhackme.com/r/room/cyberkillchainzmt)                  |
 
 ---
 
 ### Main Topics - Logs & SIEM
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Intro to Logs](https://tryhackme.com/r/room/introtologs)          |
-|            |                       | [Servidae](https://tryhackme.com/r/room/servidae)                  |
-|            |                       | [Intro to SIEM](https://tryhackme.com/r/room/introtosiem)          |
-| [Mid]      |                       | [Splunk: Exploring SPL](https://tryhackme.com/r/room/splunkexploringspl) |
+| Difficulty | Topic                 | Link                                                                                |
+|------------|-----------------------|-------------------------------------------------------------------                  |
+| [Easy]     |                       | [Intro to Logs](https://tryhackme.com/r/room/introtologs)                           |
+|            |                       | [Servidae](https://tryhackme.com/r/room/servidae)                                   |
+|            |                       | [Intro to SIEM](https://tryhackme.com/r/room/introtosiem)                           |
+| [Mid]      |                       | [Splunk: Exploring SPL](https://tryhackme.com/r/room/splunkexploringspl)            |
 
 ---
 
 ### Threat Hunting
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Introduction to Threat Hunting](https://tryhackme.com/r/room/introductiontothreathunting) |
+| Difficulty | Topic                 | Link                                                                                      |
+|------------|-----------------------|-------------------------------------------------------------------                        |
+| [Easy]     |                       | [Introduction to Threat Hunting](https://tryhackme.com/r/room/introductiontothreathunting)|
 
 ---
 
 ### Cryptography
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Mid]      |                       | [Cryptography Intro](https://tryhackme.com/r/room/cryptographyintro) |
+| Difficulty | Topic                 | Link                                                                                     |
+|------------|-----------------------|-------------------------------------------------------------------                       |
+| [Mid]      |                       | [Cryptography Intro](https://tryhackme.com/r/room/cryptographyintro)                     |
 
 ---
 
 ### Threat Intelligence
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Cyber Threat Intel](https://tryhackme.com/r/room/cyberthreatintel) |
-|            |                       | [Threat Intel Tools](https://tryhackme.com/r/room/threatinteltools) |
-| [Mid]      |                       | [Threat Intelligence for SOC](https://tryhackme.com/r/room/threatintelligenceforsoc) |
+| Difficulty | Topic                 | Link                                                                                     |
+|------------|-----------------------|-------------------------------------------------------------------                       |
+| [Easy]     |                       | [Cyber Threat Intel](https://tryhackme.com/r/room/cyberthreatintel)                      |
+|            |                       | [Threat Intel Tools](https://tryhackme.com/r/room/threatinteltools)                      |
+| [Mid]      |                       | [Threat Intelligence for SOC](https://tryhackme.com/r/room/threatintelligenceforsoc)     |
 
 ---
 
 ### OSINT
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Ohsint](https://tryhackme.com/r/room/ohsint)                      |
+| Difficulty | Topic                 | Link                                                                                     |
+|------------|-----------------------|-------------------------------------------------------------------                       |
+| [Easy]     |                       | [Ohsint](https://tryhackme.com/r/room/ohsint)                                            |
 
 ---
 
 ### Forensics
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
+| Difficulty | Topic                 | Link                                                                                      |
+|------------|-----------------------|-------------------------------------------------------------------                        |
 | [Easy]     |                       | [Introductory Room: DFIR Module](https://tryhackme.com/r/room/introductoryroomdfirmodule) |
-|            |                       | [Memory Forensics](https://tryhackme.com/r/room/memoryforensics)   |
-|            |                       | [Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)   |
-| [Mid]      |                       | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1) |
+|            |                       | [Memory Forensics](https://tryhackme.com/r/room/memoryforensics)                          |
+|            |                       | [Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)                          |
+| [Mid]      |                       | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                     |
 
 ---
 
 ### Malware Analysis
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [History of Malware](https://tryhackme.com/r/room/historyofmalware) |
-|            |                       | [Intro to Detection Engineering](https://tryhackme.com/r/room/introtodetectionengineering) |
-|            |                       | [Malmal Introductory](https://tryhackme.com/r/room/malmalintroductory) |
+| Difficulty | Topic                 | Link                                                                                      |
+|------------|-----------------------|-------------------------------------------------------------------                        |
+| [Easy]     |                       | [History of Malware](https://tryhackme.com/r/room/historyofmalware)                       |
+|            |                       | [Intro to Detection Engineering](https://tryhackme.com/r/room/introtodetectionengineering)|
+|            |                       | [Malmal Introductory](https://tryhackme.com/r/room/malmalintroductory)                    |
 
 ---
 
 ### OWASP Top 10
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [OWASP Top 10](https://tryhackme.com/r/room/owasptop10)            |
-|            |                       | [OWASP Top 10 (2021)](https://tryhackme.com/r/room/owasptop102021) |
+| Difficulty | Topic                 | Link                                                                                      |
+|------------|-----------------------|-------------------------------------------------------------------                        |
+| [Easy]     |                       | [OWASP Top 10](https://tryhackme.com/r/room/owasptop10)                                   |
+|            |                       | [OWASP Top 10 (2021)](https://tryhackme.com/r/room/owasptop102021)                        | 
 
 ---
 
 ### Tools
 
-| Difficulty | Topic                 | Link                                                              |
-|------------|-----------------------|-------------------------------------------------------------------|
-| [Easy]     |                       | [Further Nmap](https://tryhackme.com/r/room/furthernmap)           |
-|            |                       | [Hydra](https://tryhackme.com/r/room/hydra)                       |
-| [Mid]      |                       | [Snort](https://tryhackme.com/r/room/snort)                       |
-|            |                       | [KAPE](https://tryhackme.com/r/room/kape)                         |
-|            |                       | [Tshark](https://tryhackme.com/r/room/tshark)                     |
+| Difficulty | Topic                 | Link                                                                                      |
+|------------|-----------------------|-------------------------------------------------------------------                        |
+| [Easy]     |                       | [Further Nmap](https://tryhackme.com/r/room/furthernmap)                                  |
+|            |                       | [Hydra](https://tryhackme.com/r/room/hydra)                                               |
+| [Mid]      |                       | [Snort](https://tryhackme.com/r/room/snort)                                               |
+|            |                       | [KAPE](https://tryhackme.com/r/room/kape)                                                 |
+|            |                       | [Tshark](https://tryhackme.com/r/room/tshark)                                             |
 
 ---
 ## Challenges for splunk 
 
-| Challenge      | Description                                  | Link                                      |
-|----------------|----------------------------------------------|-------------------------------------------|
-| Splunk BOTS v1 | Boss of the SOC (BOTS) v1 challenge repository | [GitHub - BOTS v1](https://github.com/splunk/botsv1) |
-| Splunk BOTS v2 | Boss of the SOC (BOTS) v2 challenge repository | [GitHub - BOTS v2](https://github.com/splunk/botsv2) |
-| Splunk BOTS v3 | Boss of the SOC (BOTS) v3 challenge repository | [GitHub - BOTS v3](https://github.com/splunk/botsv3) |
+| Challenge      | Description                                  | Link                                                          |
+|----------------|----------------------------------------------|-------------------------------------------                    |
+| Splunk BOTS v1 | Boss of the SOC (BOTS) v1 challenge repository | [GitHub - BOTS v1](https://github.com/splunk/botsv1)        |
+| Splunk BOTS v2 | Boss of the SOC (BOTS) v2 challenge repository | [GitHub - BOTS v2](https://github.com/splunk/botsv2)        |
+| Splunk BOTS v3 | Boss of the SOC (BOTS) v3 challenge repository | [GitHub - BOTS v3](https://github.com/splunk/botsv3)        |
 
 ---
 
@@ -307,12 +307,12 @@
 ---
 ## SANS Books 
 
-| Challenge    | Description                         | Link                                                                 |
-|--------------|-------------------------------------|----------------------------------------------------------------------|
-| SANS 401.2   | SANS course module 401.2             | [SANS 401.2](https://lnkd.in/dC4PdJUh)                                |
-| SANS 401.3   | SANS course module 401.3             | [SANS 401.3](https://lnkd.in/dz7qfDBh)                                |
-| SANS 504.1   | SANS course module 504.1             | [SANS 504.1](https://lnkd.in/dy7SyKnD)                                |
-| SANS 504.2   | SANS course module 504.2             | [SANS 504.2](https://lnkd.in/dRzEvN_h)                                |
+| Challenge    | Description                         | Link                                                                                                |
+|--------------|-------------------------------------|----------------------------------------------------------------------                               |
+| SANS 401.2   | SANS course module 401.2             | [SANS 401.2](https://lnkd.in/dC4PdJUh)                                                             |
+| SANS 401.3   | SANS course module 401.3             | [SANS 401.3](https://lnkd.in/dz7qfDBh)                                                             |
+| SANS 504.1   | SANS course module 504.1             | [SANS 504.1](https://lnkd.in/dy7SyKnD)                                                             |
+| SANS 504.2   | SANS course module 504.2             | [SANS 504.2](https://lnkd.in/dRzEvN_h)                                                             |
 ---
 
 ## Beginners Security Labs, Exercises, and Challenges : [Source 😊](https://drive.google.com/file/d/1vqlVyKplKPgI40iluG9QxwxAZPOU1SSF/view?fbclid=IwY2xjawE_4GlleHRuA2FlbQIxMAABHRIpRNIeMlPegH9GvwrU_cohaACRvuF3BgaKIdaIuXAYvSuxo0jQlyDC5A_aem_u_pmrPrhUIm4DvHmvZ9PpA)
