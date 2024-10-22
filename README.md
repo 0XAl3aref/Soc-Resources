@@ -288,6 +288,23 @@
 |            |                       | [Tshark](https://tryhackme.com/r/room/tshark)                     |
 
 ---
+## Challenges for splunk 
+
+| Challenge      | Description                                  | Link                                      |
+|----------------|----------------------------------------------|-------------------------------------------|
+| Splunk BOTS v1 | Boss of the SOC (BOTS) v1 challenge repository | [GitHub - BOTS v1](https://github.com/splunk/botsv1) |
+| Splunk BOTS v2 | Boss of the SOC (BOTS) v2 challenge repository | [GitHub - BOTS v2](https://github.com/splunk/botsv2) |
+| Splunk BOTS v3 | Boss of the SOC (BOTS) v3 challenge repository | [GitHub - BOTS v3](https://github.com/splunk/botsv3) |
+
+---
+
+## Challenges for Qradar
+
+| Challenge     | Description                                      | Link                                                                                   |
+|---------------|--------------------------------------------------|----------------------------------------------------------------------------------------|
+| QRadar 101    | CyberDefenders Blue Team CTF focusing on QRadar   | [QRadar 101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/qradar101/?fbclid=IwY2xjawGE8xRleHRuA2FlbQIxMAABHb
+
+---
 
 <aside>
 🧑🏻‍💻  Creator : Mohamed Saber 
