@@ -317,7 +317,8 @@
 
 ## Beginners Security Labs, Exercises, and Challenges : [Source 😊](https://drive.google.com/file/d/1vqlVyKplKPgI40iluG9QxwxAZPOU1SSF/view?fbclid=IwY2xjawE_4GlleHRuA2FlbQIxMAABHRIpRNIeMlPegH9GvwrU_cohaACRvuF3BgaKIdaIuXAYvSuxo0jQlyDC5A_aem_u_pmrPrhUIm4DvHmvZ9PpA)
 ---
-
+## Qradra Rules: [Qradar most common rules](https://github.com/0XAl3aref/Qradar-Rules)
+---
 <aside>
 🧑🏻‍💻  Creator : Mohamed Saber 
 
