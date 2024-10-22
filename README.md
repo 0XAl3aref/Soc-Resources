@@ -305,6 +305,17 @@
 | QRadar 101    | CyberDefenders Blue Team CTF focusing on QRadar   | [QRadar 101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/qradar101/?fbclid=IwY2xjawGE8xRleHRuA2FlbQIxMAABHb
 
 ---
+## SANS Books 
+
+| Challenge    | Description                         | Link                                                                 |
+|--------------|-------------------------------------|----------------------------------------------------------------------|
+| SANS 401.2   | SANS course module 401.2             | [SANS 401.2](https://lnkd.in/dC4PdJUh)                                |
+| SANS 401.3   | SANS course module 401.3             | [SANS 401.3](https://lnkd.in/dz7qfDBh)                                |
+| SANS 504.1   | SANS course module 504.1             | [SANS 504.1](https://lnkd.in/dy7SyKnD)                                |
+| SANS 504.2   | SANS course module 504.2             | [SANS 504.2](https://lnkd.in/dRzEvN_h)                                |
+
+## Beginners Security Labs, Exercises, and Challenges : [Source 😊](https://drive.google.com/file/d/1vqlVyKplKPgI40iluG9QxwxAZPOU1SSF/view?fbclid=IwY2xjawE_4GlleHRuA2FlbQIxMAABHRIpRNIeMlPegH9GvwrU_cohaACRvuF3BgaKIdaIuXAYvSuxo0jQlyDC5A_aem_u_pmrPrhUIm4DvHmvZ9PpA)
+---
 
 <aside>
 🧑🏻‍💻  Creator : Mohamed Saber 
