@@ -177,6 +177,176 @@
 
 
 ---
+Try hack me 
+Fundamentals :
+
+(linux)
+
+https://tryhackme.com/r/room/linuxfundamentalspart1
+
+(networking) 
+
+[Easy]
+
+https://tryhackme.com/room/introtonetworking
+
+https://tryhackme.com/r/room/whatisnetworking
+
+https://tryhackme.com/r/room/httpindetail
+
+https://tryhackme.com/r/room/dnsindetail
+
+[mid]
+
+https://tryhackme.com/room/rfirmware
+
+Soc mentality :
+
+[easy]
+
+https://tryhackme.com/r/room/pyramidofpainax
+
+https://tryhackme.com/r/room/cyberkillchainzmt
+
+Main topics :
+
+(log & siem)
+
+[Easy]
+
+https://tryhackme.com/r/room/introtologs
+
+https://tryhackme.com/r/room/servidae
+
+https://tryhackme.com/r/room/introtosiem
+
+[mid]
+
+https://tryhackme.com/r/room/splunkexploringspl
+
+Threat Hunting :
+
+[easy]
+
+https://tryhackme.com/r/room/introductiontothreathunting
+
+crypto :
+
+[mid]
+
+https://tryhackme.com/r/room/cryptographyintro
+
+threat intelligence :
+
+[easy]
+
+https://tryhackme.com/r/room/cyberthreatintel
+
+https://tryhackme.com/r/room/threatinteltools
+
+[mid]
+
+https://tryhackme.com/r/room/threatintelligenceforsoc
+
+OSINT :
+
+[easy]
+
+https://tryhackme.com/r/room/ohsint
+
+forensics :
+
+[easy]
+
+https://tryhackme.com/r/room/introductoryroomdfirmodule
+
+https://tryhackme.com/r/room/memoryforensics
+
+https://tryhackme.com/r/room/forensicimaging
+
+[mid]
+
+https://tryhackme.com/r/room/windowsforensics1
+
+malware analysis :
+
+[easy]
+
+https://tryhackme.com/r/room/historyofmalware
+
+https://tryhackme.com/r/room/introtodetectionengineering
+
+https://tryhackme.com/r/room/malmalintroductory
+
+OWASP top 10 :
+
+[easy]
+
+https://tryhackme.com/r/room/owasptop10
+
+https://tryhackme.com/r/room/owasptop102021
+
+
+
+tools :
+
+[easy]
+
+https://tryhackme.com/r/room/furthernmap
+
+https://tryhackme.com/r/room/hydra
+
+[mid]
+
+https://tryhackme.com/r/room/snort
+
+https://tryhackme.com/r/room/kape
+
+https://tryhackme.com/r/room/tshark
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+```bash
+  npm run deploy
+```
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+# Hi, I'm Katherine! 👋
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 ---
 
