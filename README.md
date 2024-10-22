@@ -177,176 +177,43 @@
 
 
 ---
-Try hack me 
-Fundamentals :
-
-(linux)
-
-https://tryhackme.com/r/room/linuxfundamentalspart1
-
-(networking) 
-
-[Easy]
-
-https://tryhackme.com/room/introtonetworking
-
-https://tryhackme.com/r/room/whatisnetworking
-
-https://tryhackme.com/r/room/httpindetail
-
-https://tryhackme.com/r/room/dnsindetail
-
-[mid]
-
-https://tryhackme.com/room/rfirmware
-
-Soc mentality :
-
-[easy]
-
-https://tryhackme.com/r/room/pyramidofpainax
-
-https://tryhackme.com/r/room/cyberkillchainzmt
-
-Main topics :
-
-(log & siem)
-
-[Easy]
-
-https://tryhackme.com/r/room/introtologs
-
-https://tryhackme.com/r/room/servidae
-
-https://tryhackme.com/r/room/introtosiem
-
-[mid]
-
-https://tryhackme.com/r/room/splunkexploringspl
-
-Threat Hunting :
-
-[easy]
-
-https://tryhackme.com/r/room/introductiontothreathunting
-
-crypto :
-
-[mid]
-
-https://tryhackme.com/r/room/cryptographyintro
-
-threat intelligence :
-
-[easy]
-
-https://tryhackme.com/r/room/cyberthreatintel
-
-https://tryhackme.com/r/room/threatinteltools
-
-[mid]
-
-https://tryhackme.com/r/room/threatintelligenceforsoc
-
-OSINT :
-
-[easy]
-
-https://tryhackme.com/r/room/ohsint
-
-forensics :
-
-[easy]
-
-https://tryhackme.com/r/room/introductoryroomdfirmodule
-
-https://tryhackme.com/r/room/memoryforensics
-
-https://tryhackme.com/r/room/forensicimaging
-
-[mid]
-
-https://tryhackme.com/r/room/windowsforensics1
-
-malware analysis :
-
-[easy]
-
-https://tryhackme.com/r/room/historyofmalware
-
-https://tryhackme.com/r/room/introtodetectionengineering
-
-https://tryhackme.com/r/room/malmalintroductory
-
-OWASP top 10 :
-
-[easy]
-
-https://tryhackme.com/r/room/owasptop10
-
-https://tryhackme.com/r/room/owasptop102021
-
-
-
-tools :
-
-[easy]
-
-https://tryhackme.com/r/room/furthernmap
-
-https://tryhackme.com/r/room/hydra
-
-[mid]
-
-https://tryhackme.com/r/room/snort
-
-https://tryhackme.com/r/room/kape
-
-https://tryhackme.com/r/room/tshark
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
-```bash
-  npm run deploy
-```
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-# Hi, I'm Katherine! 👋
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
+## TryHackMe Labs
+
+| Category                | Difficulty | Topic                      | Link                                                              |
+|-------------------------|------------|----------------------------|-------------------------------------------------------------------|
+| **Fundamentals**        |            | **Linux**                  | [Linux Fundamentals](https://tryhackme.com/r/room/linuxfundamentalspart1) |
+|                         | [Easy]     | **Networking**             | [Intro to Networking](https://tryhackme.com/room/introtonetworking) |
+|                         |            |                            | [What is Networking](https://tryhackme.com/r/room/whatisnetworking) |
+|                         |            |                            | [HTTP in Detail](https://tryhackme.com/r/room/httpindetail)        |
+|                         |            |                            | [DNS in Detail](https://tryhackme.com/r/room/dnsindetail)          |
+|                         | [Mid]      |                            | [RF: Firmware](https://tryhackme.com/room/rfirmware)               |
+| **SOC Mentality**       | [Easy]     |                            | [Pyramid of Pain](https://tryhackme.com/r/room/pyramidofpainax)    |
+|                         |            |                            | [Cyber Kill Chain](https://tryhackme.com/r/room/cyberkillchainzmt) |
+| **Main Topics**         |            | **Logs & SIEM**            |                                                                   |
+|                         | [Easy]     |                            | [Intro to Logs](https://tryhackme.com/r/room/introtologs)          |
+|                         |            |                            | [Servidae](https://tryhackme.com/r/room/servidae)                  |
+|                         |            |                            | [Intro to SIEM](https://tryhackme.com/r/room/introtosiem)          |
+|                         | [Mid]      |                            | [Splunk: Exploring SPL](https://tryhackme.com/r/room/splunkexploringspl) |
+| **Threat Hunting**      | [Easy]     |                            | [Introduction to Threat Hunting](https://tryhackme.com/r/room/introductiontothreathunting) |
+| **Cryptography**        | [Mid]      |                            | [Cryptography Intro](https://tryhackme.com/r/room/cryptographyintro) |
+| **Threat Intelligence** | [Easy]     |                            | [Cyber Threat Intel](https://tryhackme.com/r/room/cyberthreatintel) |
+|                         |            |                            | [Threat Intel Tools](https://tryhackme.com/r/room/threatinteltools) |
+|                         | [Mid]      |                            | [Threat Intelligence for SOC](https://tryhackme.com/r/room/threatintelligenceforsoc) |
+| **OSINT**               | [Easy]     |                            | [Ohsint](https://tryhackme.com/r/room/ohsint)                      |
+| **Forensics**           | [Easy]     |                            | [Introductory Room: DFIR Module](https://tryhackme.com/r/room/introductoryroomdfirmodule) |
+|                         |            |                            | [Memory Forensics](https://tryhackme.com/r/room/memoryforensics)   |
+|                         |            |                            | [Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)   |
+|                         | [Mid]      |                            | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1) |
+| **Malware Analysis**    | [Easy]     |                            | [History of Malware](https://tryhackme.com/r/room/historyofmalware) |
+|                         |            |                            | [Intro to Detection Engineering](https://tryhackme.com/r/room/introtodetectionengineering) |
+|                         |            |                            | [Malmal Introductory](https://tryhackme.com/r/room/malmalintroductory) |
+| **OWASP Top 10**        | [Easy]     |                            | [OWASP Top 10](https://tryhackme.com/r/room/owasptop10)            |
+|                         |            |                            | [OWASP Top 10 (2021)](https://tryhackme.com/r/room/owasptop102021) |
+| **Tools**               | [Easy]     |                            | [Further Nmap](https://tryhackme.com/r/room/furthernmap)           |
+|                         |            |                            | [Hydra](https://tryhackme.com/r/room/hydra)                       |
+|                         | [Mid]      |                            | [Snort](https://tryhackme.com/r/room/snort)                       |
+|                         |            |                            | [KAPE](https://tryhackme.com/r/room/kape)                         |
+|                         |            |                            | [Tshark](https://tryhackme.com/r/room/tshark)                     |
 
 ---
 
