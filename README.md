@@ -302,7 +302,7 @@
 
 | Challenge     | Description                                      | Link                                                                                   |
 |---------------|--------------------------------------------------|----------------------------------------------------------------------------------------|
-| QRadar 101    | CyberDefenders Blue Team CTF focusing on QRadar   | [QRadar 101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/qradar101/?fbclid=IwY2xjawGE8xRleHRuA2FlbQIxMAABHb
+| QRadar 101    | CyberDefenders Blue Team CTF focusing on QRadar   | [QRadar 101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/qradar101/?fbclid=IwY2xjawGE8xRleHRuA2FlbQIxMAABHb)
 
 ---
 ## SANS Books 
