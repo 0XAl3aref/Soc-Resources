@@ -5,7 +5,7 @@
 
 </br>
 
-[![text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png](https://i.postimg.cc/prmRnnFX/text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png)](https://postimg.cc/YLBJ50RJ)
+[![text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png](https://www.google.com/imgres?q=soc&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F6207f5adfd8e615d3d70498b%2F64da66a4a9885e16d712dab6_blink-ops-what-is-soc-automation.png&imgrefurl=https%3A%2F%2Fwww.blinkops.com%2Fblog%2Fwhat-is-soc-automation&docid=_DT3T4al7IFgXM&tbnid=KdccB0mwHIxh7M&vet=12ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA..i&w=1504&h=784&hcb=2&ved=2ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA)](https://postimg.cc/YLBJ50RJ)
 
 >In this repository, several parts, one for monitoring, the list of tools to qualify malicious activity and finally, a list of queries to carry out your threat hunting properly. I've also added news sites and courses to train you between cyber attacks, when you have time.
 
