@@ -323,8 +323,9 @@ Thanks for watching 😊
 ---
 <aside>
 🧑🏻‍💻  Creator : Mohamed Saber 
+  
 ---
-## Linked In profile :[profile 😊](www.linkedin.com/in/mohamed-saber-4b6550256)
+## Linked In profile:[profile 😊](https://www.linkedin.com/in/mohamed-saber-4b6550256/)
 
 </aside>
 
