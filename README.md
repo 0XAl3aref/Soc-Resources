@@ -3,8 +3,8 @@
 >Are you starting a career as a SOC analyst? Or do you simply want to get a list of the most used tools in the cyber world? This repository is made for you, whether you are a level 1 or in a more advanced branch, you will find all the resources to make your work easier. Remember, the priority is to properly detect and identify the threat, so use everything you have at hand and avoid the crisis !
 
 </br>
+![image_alt](https://www.google.com/imgres?q=soc&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F6207f5adfd8e615d3d70498b%2F64da66a4a9885e16d712dab6_blink-ops-what-is-soc-automation.png&imgrefurl=https%3A%2F%2Fwww.blinkops.com%2Fblog%2Fwhat-is-soc-automation&docid=_DT3T4al7IFgXM&tbnid=KdccB0mwHIxh7M&vet=12ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA..i&w=1504&h=784&hcb=2&ved=2ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA)
 
-[![text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png](https://www.google.com/imgres?q=soc&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F6207f5adfd8e615d3d70498b%2F64da66a4a9885e16d712dab6_blink-ops-what-is-soc-automation.png&imgrefurl=https%3A%2F%2Fwww.blinkops.com%2Fblog%2Fwhat-is-soc-automation&docid=_DT3T4al7IFgXM&tbnid=KdccB0mwHIxh7M&vet=12ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA..i&w=1504&h=784&hcb=2&ved=2ahUKEwjyw5f-96KJAxWbSaQEHdhJHYgQM3oECB0QAA)
 
 >In this repository, several parts, one for monitoring, the list of tools to qualify malicious activity and finally, a list of queries to carry out your threat hunting properly. I've also added news sites and courses to train you between cyber attacks, when you have time.
 
