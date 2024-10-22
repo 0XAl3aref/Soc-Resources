@@ -319,7 +319,7 @@
 ---
 ## Qradra Rules: [Qradar most common rules 😊](https://github.com/0XAl3aref/Qradar-Rules)
 ---
-## Linked In profile: [profile 😊] (https://www.linkedin.com/in/mohamed-saber-4b6550256/)
+## Linked In profile: [profile 😊](https://www.linkedin.com/in/mohamed-saber-4b6550256/)
 ---
 Thanks for watching 😊
 ---
